@@ -20,3 +20,4 @@ Set the env vars:
 - Uses Supabase Realtime to refresh the Today view
 - Tables are created by the schema you already ran in Supabase
 - Extend UI later (shadcn/MUI) without changing the DB
+Deployed via Vercel.
